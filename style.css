@@ -1,0 +1,34 @@
+header {
+    background-color: teal
+}
+div.title {
+    
+    color: white;
+    text-align: center;
+}
+div.title h1 {
+    padding: 10px;
+}
+
+
+main.dashboard {
+    background-color: rgb(247, 247, 247);
+}
+
+
+div.recent-searches h2 {
+    font-size: 1.3rem;
+}
+
+div.cityList {
+    margin-top: 20px;
+}
+
+div.city {
+    padding: 10px;
+}
+
+div.cityName {
+    background-color: white;
+    color: black;   
+}
